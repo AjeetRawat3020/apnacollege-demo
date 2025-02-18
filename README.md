@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my First Git Repository
 <br>
-Author - Ajeet Singh Rawat
+Author - Ajeet Singh Rawat (Student)
